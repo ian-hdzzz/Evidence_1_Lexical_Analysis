@@ -68,7 +68,7 @@ The Python implementation uses the re module to verify if a string belongs to th
 Running the Regular Expression in Python
 
 1. Run the file:
-> python interactive_tester.py
+> python regex_test.py
 2. Enter a string to test:
 > Enter a word to test: mahdi
 3. Enter a string to test:
