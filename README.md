@@ -86,3 +86,8 @@ Automaton Characteristics
 Both the DFA and Regular Expression implementations offer efficient ways to solve the problem of recognizing exactly the 5 specified words. The regular expression is simpler and more compact, while the DFA in Prolog provides a more visual and explicit representation of the recognition process.
 
 For this specific case of a finite language with only 5 words, both implementations are equivalent in terms of functionality. The regular expression is the most concise solution, but the DFA provides a more instructive representation of the word recognition process.
+
+#References
+REGEXR: Learn, build, & Test RegEX. (s. f.). RegExr. https://regexr.com/ 
+W3Schools.com. (s. f.). https://www.w3schools.com/python/python_regex.asp 
+GeeksforGeeks. (2024, 4 octubre). Difference between DFA and NFA. GeeksforGeeks. https://www.geeksforgeeks.org/difference-between-dfa-and-nfa/ 

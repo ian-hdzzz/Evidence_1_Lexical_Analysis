@@ -32,9 +32,7 @@ class TestRegularExpression(unittest.TestCase):
                 self.assertFalse(valid_word(word))
 
 
-# if __name__ == "__main__":
-#     unittest.main()
-    
+
 # dynamic test
 def main():
     print("Welcome to the Regular Expression Tester")
